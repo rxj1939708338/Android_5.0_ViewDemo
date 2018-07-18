@@ -2,30 +2,54 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Android5.0Demo.iml" filepath="$PROJECT_DIR$/Android5.0Demo.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\Android5.0Demo.iml" filepath="D:\git_work\Android_5.0_ViewDemo\Android5.0Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Android_5.0_ViewDemo.iml" filepath="$PROJECT_DIR$/.idea/Android_5.0_ViewDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/AsyncTaskDemo/AsyncTaskDemo.iml" filepath="$PROJECT_DIR$/AsyncTaskDemo/AsyncTaskDemo.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\AsyncTaskDemo\AsyncTaskDemo.iml" filepath="D:\git_work\Android_5.0_ViewDemo\AsyncTaskDemo\AsyncTaskDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/BlurDemo/BlurDemo.iml" filepath="$PROJECT_DIR$/BlurDemo/BlurDemo.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\BlurDemo\BlurDemo.iml" filepath="D:\git_work\Android_5.0_ViewDemo\BlurDemo\BlurDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ButtonAnimation/ButtonAnimation.iml" filepath="$PROJECT_DIR$/ButtonAnimation/ButtonAnimation.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\ButtonAnimation\ButtonAnimation.iml" filepath="D:\git_work\Android_5.0_ViewDemo\ButtonAnimation\ButtonAnimation.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChangeThemeDemo/ChangeThemeDemo.iml" filepath="$PROJECT_DIR$/ChangeThemeDemo/ChangeThemeDemo.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\ChangeThemeDemo\ChangeThemeDemo.iml" filepath="D:\git_work\Android_5.0_ViewDemo\ChangeThemeDemo\ChangeThemeDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/CommonAdapterDemo/CommonAdapterDemo.iml" filepath="$PROJECT_DIR$/CommonAdapterDemo/CommonAdapterDemo.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\CommonAdapterDemo\CommonAdapterDemo.iml" filepath="D:\git_work\Android_5.0_ViewDemo\CommonAdapterDemo\CommonAdapterDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataBindingDemo/DataBindingDemo.iml" filepath="$PROJECT_DIR$/DataBindingDemo/DataBindingDemo.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\DataBindingDemo\DataBindingDemo.iml" filepath="D:\git_work\Android_5.0_ViewDemo\DataBindingDemo\DataBindingDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/DragLayoutDemo/DragLayoutDemo.iml" filepath="$PROJECT_DIR$/DragLayoutDemo/DragLayoutDemo.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\DragLayoutDemo\DragLayoutDemo.iml" filepath="D:\git_work\Android_5.0_ViewDemo\DragLayoutDemo\DragLayoutDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/FirstMVPDemo/FirstMVPDemo.iml" filepath="$PROJECT_DIR$/FirstMVPDemo/FirstMVPDemo.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\FirstMVPDemo\FirstMVPDemo.iml" filepath="D:\git_work\Android_5.0_ViewDemo\FirstMVPDemo\FirstMVPDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/FirstRxJavaDemo/FirstRxJavaDemo.iml" filepath="$PROJECT_DIR$/FirstRxJavaDemo/FirstRxJavaDemo.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\FirstRxJavaDemo\FirstRxJavaDemo.iml" filepath="D:\git_work\Android_5.0_ViewDemo\FirstRxJavaDemo\FirstRxJavaDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/FloatBubbleView/FloatBubbleView.iml" filepath="$PROJECT_DIR$/FloatBubbleView/FloatBubbleView.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\FloatBubbleView\FloatBubbleView.iml" filepath="D:\git_work\Android_5.0_ViewDemo\FloatBubbleView\FloatBubbleView.iml" />
       <module fileurl="file://$PROJECT_DIR$/GsonArrayDemo/GsonArrayDemo.iml" filepath="$PROJECT_DIR$/GsonArrayDemo/GsonArrayDemo.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\GsonArrayDemo\GsonArrayDemo.iml" filepath="D:\git_work\Android_5.0_ViewDemo\GsonArrayDemo\GsonArrayDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloChartsDemo/HelloChartsDemo.iml" filepath="$PROJECT_DIR$/HelloChartsDemo/HelloChartsDemo.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\HelloChartsDemo\HelloChartsDemo.iml" filepath="D:\git_work\Android_5.0_ViewDemo\HelloChartsDemo\HelloChartsDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoaderMVPDemo/LoaderMVPDemo.iml" filepath="$PROJECT_DIR$/LoaderMVPDemo/LoaderMVPDemo.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\LoaderMVPDemo\LoaderMVPDemo.iml" filepath="D:\git_work\Android_5.0_ViewDemo\LoaderMVPDemo\LoaderMVPDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/MoocNewsDemo/MoocNewsDemo.iml" filepath="$PROJECT_DIR$/MoocNewsDemo/MoocNewsDemo.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\MoocNewsDemo\MoocNewsDemo.iml" filepath="D:\git_work\Android_5.0_ViewDemo\MoocNewsDemo\MoocNewsDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/NewQQEffects/NewQQEffects.iml" filepath="$PROJECT_DIR$/NewQQEffects/NewQQEffects.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\NewQQEffects\NewQQEffects.iml" filepath="D:\git_work\Android_5.0_ViewDemo\NewQQEffects\NewQQEffects.iml" />
       <module fileurl="file://$PROJECT_DIR$/NewSelector/NewSelector.iml" filepath="$PROJECT_DIR$/NewSelector/NewSelector.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\NewSelector\NewSelector.iml" filepath="D:\git_work\Android_5.0_ViewDemo\NewSelector\NewSelector.iml" />
       <module fileurl="file://$PROJECT_DIR$/PaletteDemo/PaletteDemo.iml" filepath="$PROJECT_DIR$/PaletteDemo/PaletteDemo.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\PaletteDemo\PaletteDemo.iml" filepath="D:\git_work\Android_5.0_ViewDemo\PaletteDemo\PaletteDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecyclerView/RecyclerView.iml" filepath="$PROJECT_DIR$/RecyclerView/RecyclerView.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\RecyclerView\RecyclerView.iml" filepath="D:\git_work\Android_5.0_ViewDemo\RecyclerView\RecyclerView.iml" />
       <module fileurl="file://$PROJECT_DIR$/ShadowDemo/ShadowDemo.iml" filepath="$PROJECT_DIR$/ShadowDemo/ShadowDemo.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\ShadowDemo\ShadowDemo.iml" filepath="D:\git_work\Android_5.0_ViewDemo\ShadowDemo\ShadowDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ToolBarDemo/ToolBarDemo.iml" filepath="$PROJECT_DIR$/ToolBarDemo/ToolBarDemo.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\ToolBarDemo\ToolBarDemo.iml" filepath="D:\git_work\Android_5.0_ViewDemo\ToolBarDemo\ToolBarDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/TransitionsAnimation/TransitionsAnimation.iml" filepath="$PROJECT_DIR$/TransitionsAnimation/TransitionsAnimation.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\TransitionsAnimation\TransitionsAnimation.iml" filepath="D:\git_work\Android_5.0_ViewDemo\TransitionsAnimation\TransitionsAnimation.iml" />
       <module fileurl="file://$PROJECT_DIR$/UpdateColorDemo/UpdateColorDemo.iml" filepath="$PROJECT_DIR$/UpdateColorDemo/UpdateColorDemo.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\UpdateColorDemo\UpdateColorDemo.iml" filepath="D:\git_work\Android_5.0_ViewDemo\UpdateColorDemo\UpdateColorDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/VectorAnimation/VectorAnimation.iml" filepath="$PROJECT_DIR$/VectorAnimation/VectorAnimation.iml" />
+      <module fileurl="file://D:\git_work\Android_5.0_ViewDemo\VectorAnimation\VectorAnimation.iml" filepath="D:\git_work\Android_5.0_ViewDemo\VectorAnimation\VectorAnimation.iml" />
     </modules>
   </component>
 </project>
